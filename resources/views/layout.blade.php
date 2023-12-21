@@ -56,7 +56,7 @@
         <a class="nav-link @activeLink('contact')" href="/contacts">Контакты</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link @activeLink('contact')" href="/comment/all">Контакты</a>
+        <a class="nav-link @activeLink('contact')" href="comment/all">Контакты</a>
       </li>
       @can('create')
       <li class="nav-item">
